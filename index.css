@@ -3,3 +3,7 @@ body {
     background-image: url(images/space.jpg);
     background-size: cover;
 }
+
+.btn {
+    padding: 6px 12px;
+}
